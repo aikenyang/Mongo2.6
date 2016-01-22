@@ -50,7 +50,7 @@ use admin
 db.createUser(
     {
       user: "rddba",
-      pwd: "abcd1234!",
+      pwd: "abcd1234",
       roles: [ "root","restore" ]
     }
 )
