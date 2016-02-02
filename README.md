@@ -1,1 +1,1 @@
-# AWS_Mongo2.6
+# Mongo2.6 for Datacenter
